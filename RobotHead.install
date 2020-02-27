@@ -1,0 +1,21 @@
+{
+    "name": "RobotHead",
+    "version": "0.0.1",
+    "icon": "fab fa-battle-net",
+    "author": "rickmini",
+    "maintainers": [],
+    "desc": "Move 2 servos in response to look (left,right,up,down,cener)",
+    "aliceMinVersion": "1.0.0-a6",
+    "systemRequirements": [
+        ""
+    ],
+    "pipRequirements": [
+        ""
+    ],
+    "conditions": {
+        "lang": [
+            "en"
+        ],
+        "asrArbitraryCapture": true
+    }
+}

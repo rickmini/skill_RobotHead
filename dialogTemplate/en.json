@@ -1,0 +1,7 @@
+{
+    "skill": "RobotHead",
+    "icon": "time",
+    "description": "Move 2 servos in response to look (left,right,up,down,cener)",
+    "slotTypes": [],
+    "intents": []
+}
